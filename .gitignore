@@ -42,3 +42,5 @@ output/
 
 # Playwright MCP
 .playwright-mcp/
+config.bat
+node_modules
